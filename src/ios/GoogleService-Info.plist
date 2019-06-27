@@ -2,5 +2,37 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>59546488995-miacblmasg6i4rft9g16fmknjid5hn29.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.59546488995-miacblmasg6i4rft9g16fmknjid5hn29</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>59546488995-lb4v2maq96t0btedif9sbh161re065eq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsebhgjPu-9XzdlrL9CT0CWAF0vAql16c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>59546488995</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ecubes.diamond</string>
+	<key>PROJECT_ID</key>
+	<string>diamond-clinic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diamond-clinic.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:59546488995:ios:2312f1a13f9b892f</string>
+	<key>DATABASE_URL</key>
+	<string>https://diamond-clinic.firebaseio.com</string>
 </dict>
 </plist>
